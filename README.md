@@ -8,9 +8,7 @@ Finite State Machine Design
 
 A Moore FSM is a suitable choice here, where the outputs are determined solely by the current state. We have defined  six primary states to manage the traffic flow by controlling the four traffic lights, denoted by M1 to M4 (or outputs). 
 
-
-
-
+This picture shows the different states in a concise manner: https://github.com/baibhav-kumar/Traffic-Signal/blob/main/Pathdiagram.png
 
 1. State S1:  M1 is green, M2 is red, M3 is green, M4 is red. S1 goes to S2 after T1 time.
 2. State S2:  M3 becomes yellow, rest is the same. S2 goes to S3 after Ty time.
