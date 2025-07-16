@@ -25,7 +25,7 @@ The state table is represnted in https://github.com/baibhav-kumar/Traffic-Signal
 
 
 
-
+After running the final waveform is shown in https://github.com/baibhav-kumar/Traffic-Signal/blob/main/waveform.png
 
 This simulation waveform successfully verifies the correct operation of the 4-way traffic light controller's Finite State Machine (FSM).
 
