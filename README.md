@@ -17,7 +17,7 @@ This picture shows the different states in a concise manner: https://github.com/
 5. State S5:  Only M4 is green, others are red. S5 goes to state S6 after T3 delay.
 6. State S6:  M1, M2 and M3 are red while M4 becomes yellow. S6 goes back to S0 after Ty delay.
 
-
+The state table is represnted in https://github.com/baibhav-kumar/Traffic-Signal/blob/main/stateTable.png
 
 
 
